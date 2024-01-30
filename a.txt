@@ -4,4 +4,4 @@ Line 2 - m1
 Line 3 - m2
 
 Line 4 - m3 on branch b1
-
+stash 
